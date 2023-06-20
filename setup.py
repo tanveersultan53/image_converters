@@ -7,6 +7,7 @@ setup(
                 'such as bytes and base64 encoding. It uses the OpenCV library for image processing.',
     author='Tanveer Sultan',
     author_email='engr.tanveersultan53@gmail.com',
+    url='https://github.com/tanveersultan53/image_converters',
     packages=['image_converter'],
     install_requires=['opencv-python', 'numpy'],
     classifiers=[
